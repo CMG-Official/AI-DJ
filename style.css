@@ -1,0 +1,8 @@
+body{
+    background-color:bisque;
+}
+canvas{
+    background-color: white;
+    border: 1px solid;
+    border-radius: 13px;
+}
